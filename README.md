@@ -24,7 +24,7 @@ A personal portfolio website showcasing my projects, skills, and experience as a
 
 * Frontend: React.js, CSS
 * Styling: Bootstrap / Custom CSS
-* Deployment: (Netlify / Vercel / GitHub Pages)
+* Deployment: (Netlify/ GitHub Pages)
 
 ---
 
@@ -71,14 +71,15 @@ npm start
 
 ## 📸 Screenshots
 
-(Add screenshots here if you want)
+<img width="1835" height="951" alt="{B8973F8D-EF82-47F5-990E-7D466FCFAAD5}" src="https://github.com/user-attachments/assets/2a1aba51-2650-4087-ac26-0127d430fbd3" />
+
 
 ---
 
 ## 📬 Contact
 
-* LinkedIn: https://linkedin.com/in/your-profile
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* LinkedIn: https://www.linkedin.com/in/arpan-mishra-a94090227/
+* Email: mishraarpan1247@gmail.com
 
 ---
 
