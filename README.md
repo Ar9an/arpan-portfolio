@@ -24,7 +24,7 @@ A personal portfolio website showcasing my projects, skills, and experience as a
 
 * Frontend: React.js, CSS
 * Styling: Bootstrap / Custom CSS
-* Deployment: (Netlify/ GitHub Pages)
+* Deployment: (Netlify/ GitHub pc)
 
 ---
 
