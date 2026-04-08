@@ -5,8 +5,6 @@ import {
   SiPostman,
   SiSlack,
   SiVercel,
-  SiMacos,
-  SiWindows11,
   SiJupyter
 } from "react-icons/si";
 
