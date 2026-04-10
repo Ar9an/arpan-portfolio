@@ -84,6 +84,7 @@ npm start
 ---
 
 ## ⭐ Show Your Support
+## give it a star
 
 If you like this project, please give it a ⭐ on GitHub!
 
